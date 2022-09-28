@@ -18,7 +18,7 @@ var server = http.createServer( function ( request, response) {
     }
   }
   
-  //funcao para ordenar de forma crescente
+  //funcao para ordenar de forma decrescente
   function ordemDecrescente( lista[] ) {
     var aux;
     for(var i = 0; i < lista.length; i++) {
